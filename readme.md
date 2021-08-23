@@ -17,7 +17,7 @@
 **1. 일시/장소**
 
 - 일시 : 2021년 9월 16일 ~ 10월 20일(1개월)
-- 장소 : 비대면 온라인 방식 참여 - 국방오픈소스아카데미(osam.kr), Visual Studio Codespace, TinkerCAD, Github 등
+- 장소 : 비대면 온라인 방식 참여 - 국방오픈소스아카데미(osam.kr), Github Codespace, TinkerCAD, Github 등
 ##
 **2. 주최/주관**
 
